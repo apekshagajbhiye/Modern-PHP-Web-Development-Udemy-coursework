@@ -29,6 +29,9 @@
         echo "<h1> My Name Is: $name </h1>"
 
     ?>
+    <button type = "button" class ="btn btn-dark">CLICK ME!</button>
+    <button type = "button" class ="btn btn-secondary">CLICK ME!</button>
+
     <?php require 'includes/footer.php' ?>
         
    
